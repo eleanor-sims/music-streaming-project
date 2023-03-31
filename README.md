@@ -20,6 +20,6 @@ The code for this project is contained in a single Jupyter (ipynb) notebook. Thi
 The main findings of the code can be found at the post available  [here]().
 
 # Licensing, Authors, Acknowledgements
-Credit to Spotify for the sessions data, which is available [here]([https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks](https://research.atspotify.com/publications/the-music-streaming-sessions-dataset-short-paper/)).
+Credit to Spotify for the sessions data, which is available [here]((https://research.atspotify.com/publications/the-music-streaming-sessions-dataset-short-paper/)).
 
 You can find more information about the spotify audio features available within the data [here](https://developer.spotify.com/documentation/web-api/reference/#/operations/get-audio-features).
