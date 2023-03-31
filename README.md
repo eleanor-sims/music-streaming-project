@@ -11,7 +11,7 @@
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.
 
 # Project Motivation
-For this project, I was interested in using Spotify session data from th Music Streaming Sets Data paper. The question I was attempting to solve for was 'can we predict listener skip rate?'.
+For this project, I was interested in using Spotify session data from the Music Streaming Sessions Dataset (Brost et al.) paper. The question I was attempting to solve for was 'can we predict track skip rate?'.
 
 # File Descriptions
 The code for this project is contained in a single Jupyter (ipynb) notebook. This code works sequentially through all steps of the data science process, which are clearly signposted by markdown cells.
