@@ -17,7 +17,7 @@ For this project, I was interested in using Spotify session data from the Music 
 The code for this project is contained in a single Jupyter (ipynb) notebook. This code works sequentially through all steps of the data science process, which are clearly signposted by markdown cells.
 
 # Results
-The main findings of the code can be found at the post available  [here]().
+The main findings of the code can be found at the post available  [here](https://medium.com/@elly.sims24/please-dont-stop-the-music-using-machine-learning-classification-to-predict-listener-behaviour-3570a5c33254).
 
 # Licensing, Authors, Acknowledgements
 Credit to Spotify for the sessions data, which is available [here](https://research.atspotify.com/publications/the-music-streaming-sessions-dataset-short-paper/).
